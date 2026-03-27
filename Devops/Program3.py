@@ -5,7 +5,7 @@ def move_towards_goal(position, goal):
     print("Reached the goal!")
 
 # Set initial position and goal position
-initial_position = 0
+initial_position = 2
 goal_position = 5
 
 # Move towards the goal
